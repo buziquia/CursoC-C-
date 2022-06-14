@@ -1,0 +1,15 @@
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\bin\Debug\net6.0\DivisaoInteiroReal.exe
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\bin\Debug\net6.0\DivisaoInteiroReal.deps.json
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\bin\Debug\net6.0\DivisaoInteiroReal.runtimeconfig.json
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\bin\Debug\net6.0\DivisaoInteiroReal.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\bin\Debug\net6.0\DivisaoInteiroReal.pdb
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\DivisaoInteiroReal.csproj.AssemblyReference.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\DivisaoInteiroReal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\DivisaoInteiroReal.AssemblyInfoInputs.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\DivisaoInteiroReal.AssemblyInfo.cs
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\DivisaoInteiroReal.csproj.CoreCompileInputs.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\DivisaoInteiroReal.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\refint\DivisaoInteiroReal.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\DivisaoInteiroReal.pdb
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\DivisaoInteiroReal.genruntimeconfig.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\DivisaoInteiroReal\obj\Debug\net6.0\ref\DivisaoInteiroReal.dll

@@ -1,0 +1,15 @@
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\bin\Debug\net6.0\EstudosOperadoresAritimeticos.exe
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\bin\Debug\net6.0\EstudosOperadoresAritimeticos.deps.json
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\bin\Debug\net6.0\EstudosOperadoresAritimeticos.runtimeconfig.json
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\bin\Debug\net6.0\EstudosOperadoresAritimeticos.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\bin\Debug\net6.0\EstudosOperadoresAritimeticos.pdb
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\EstudosOperadoresAritimeticos.csproj.AssemblyReference.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\EstudosOperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\EstudosOperadoresAritimeticos.AssemblyInfoInputs.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\EstudosOperadoresAritimeticos.AssemblyInfo.cs
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\EstudosOperadoresAritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\EstudosOperadoresAritimeticos.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\refint\EstudosOperadoresAritimeticos.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\EstudosOperadoresAritimeticos.pdb
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\EstudosOperadoresAritimeticos.genruntimeconfig.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\EstudosOperadoresAritimeticos\obj\Debug\net6.0\ref\EstudosOperadoresAritimeticos.dll

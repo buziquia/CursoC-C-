@@ -1,0 +1,15 @@
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\bin\Debug\net6.0\Ex003_5.exe
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\bin\Debug\net6.0\Ex003_5.deps.json
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\bin\Debug\net6.0\Ex003_5.runtimeconfig.json
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\bin\Debug\net6.0\Ex003_5.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\bin\Debug\net6.0\Ex003_5.pdb
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\Ex003_5.csproj.AssemblyReference.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\Ex003_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\Ex003_5.AssemblyInfoInputs.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\Ex003_5.AssemblyInfo.cs
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\Ex003_5.csproj.CoreCompileInputs.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\Ex003_5.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\refint\Ex003_5.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\Ex003_5.pdb
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\Ex003_5.genruntimeconfig.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\ExercicioM01\Ex003_5\obj\Debug\net6.0\ref\Ex003_5.dll

@@ -1,0 +1,15 @@
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\bin\Debug\net6.0\ExpressoesMistas.exe
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\bin\Debug\net6.0\ExpressoesMistas.deps.json
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\bin\Debug\net6.0\ExpressoesMistas.runtimeconfig.json
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\bin\Debug\net6.0\ExpressoesMistas.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\bin\Debug\net6.0\ExpressoesMistas.pdb
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ExpressoesMistas.csproj.AssemblyReference.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ExpressoesMistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ExpressoesMistas.AssemblyInfoInputs.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ExpressoesMistas.AssemblyInfo.cs
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ExpressoesMistas.csproj.CoreCompileInputs.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ExpressoesMistas.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\refint\ExpressoesMistas.dll
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ExpressoesMistas.pdb
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ExpressoesMistas.genruntimeconfig.cache
+C:\Users\buziq\Desktop\Workspace Estudos\EstudoNauta\EstudosM02\ExpressoesMistas\obj\Debug\net6.0\ref\ExpressoesMistas.dll
